@@ -1,4 +1,4 @@
-# Projekt: Elternsprechtagreservierungssystem
+# Projekt: Elternsprechtagreservierungssystem "PRESS."
 
 Management / Dokumentation: Deisl, Teufel
 
